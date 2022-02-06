@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\ignac\Desktop\UCM\3\2do cuatri\MAR2\Problemas\Problema1\Problema1\Source.cpp(41,20): warning C4018: '<=': no coinciden signed/unsigned
+C:\Users\ignac\Desktop\UCM\3\2do cuatri\MAR2\Problemas\Problema1\Problema1\Source.cpp(72,20): warning C4018: '<=': no coinciden signed/unsigned
+C:\Users\ignac\Desktop\UCM\3\2do cuatri\MAR2\Problemas\Problema1\Problema1\Source.cpp(103,20): warning C4018: '<=': no coinciden signed/unsigned
+C:\Users\ignac\Desktop\UCM\3\2do cuatri\MAR2\Problemas\Problema1\Problema1\Source.cpp(131,20): warning C4018: '<=': no coinciden signed/unsigned
+  Problema1.vcxproj -> C:\Users\ignac\Desktop\UCM\3\2do cuatri\MAR2\Problemas\Problema1\Debug\Problema1.exe
